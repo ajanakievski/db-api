@@ -1,0 +1,176 @@
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Json.dll
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Json.pdb
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Stole\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stole\source\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Test.exe.config
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Test.exe
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Test.pdb
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Json.dll
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Json.pdb
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.exe
+C:\Users\nbn80019\Downloads\Test-master\Test-master\Test\Test\obj\Debug\Test.pdb
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\Test.exe.config
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\Test.exe
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\Test.pdb
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.exe
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.pdb
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.Migrations.firstcreation.resources
+C:\Users\nbn80019\Desktop\Test-master\Test-master\Test\Test\obj\Debug\Test.Migrations.addedTrackChanges.resources
+E:\Test-master\Test\Test\bin\Debug\Test.exe.config
+E:\Test-master\Test\Test\bin\Debug\Test.exe
+E:\Test-master\Test\Test\bin\Debug\Test.pdb
+E:\Test-master\Test\Test\bin\Debug\EntityFramework.dll
+E:\Test-master\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test-master\Test\Test\bin\Debug\MySql.Data.dll
+E:\Test-master\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\Test-master\Test\Test\bin\Debug\EntityFramework.xml
+E:\Test-master\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test-master\Test\Test\bin\Debug\Newtonsoft.Json.xml
+E:\Test-master\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Test-master\Test\Test\obj\Debug\Test.Form1.resources
+E:\Test-master\Test\Test\obj\Debug\Test.Migrations.firstcreation.resources
+E:\Test-master\Test\Test\obj\Debug\Test.Migrations.addedTrackChanges.resources
+E:\Test-master\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Test-master\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Test-master\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Test-master\Test\Test\obj\Debug\Test.exe
+E:\Test-master\Test\Test\obj\Debug\Test.pdb
+E:\Test-master\Test\Test\obj\Debug\Test.Migrations.newtables.resources
+E:\Test-master - Copy\Test\Test\bin\Debug\Test.exe.config
+E:\Test-master - Copy\Test\Test\bin\Debug\Test.exe
+E:\Test-master - Copy\Test\Test\bin\Debug\Test.pdb
+E:\Test-master - Copy\Test\Test\bin\Debug\EntityFramework.dll
+E:\Test-master - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test-master - Copy\Test\Test\bin\Debug\MySql.Data.dll
+E:\Test-master - Copy\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\Test-master - Copy\Test\Test\bin\Debug\EntityFramework.xml
+E:\Test-master - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test-master - Copy\Test\Test\bin\Debug\Newtonsoft.Json.xml
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Form1.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Migrations.firstcreation.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Migrations.addedTrackChanges.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Migrations.newtables.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.exe
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.pdb
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Migrations.newfields.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Migrations.newclasses.resources
+E:\Test-master - Copy\Test\Test\obj\Debug\Test.Migrations.tagclassadded.resources
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\Test.exe.config
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\Test.exe
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\Test.pdb
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\EntityFramework.dll
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\MySql.Data.dll
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\EntityFramework.xml
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.xml
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.Form1.resources
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.exe
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.pdb
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.first.resources
+E:\Project Robert\Test-master - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.second.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\Test.exe.config
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\Test.exe
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\Test.pdb
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\MySql.Data.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.xml
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.xml
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Form1.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.exe
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.pdb
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.first.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.updates.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.added_ArticleJSONClass.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Test.exe.config
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Test.exe
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Test.pdb
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\MySql.Data.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.xml
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.xml
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Form1.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.exe
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.pdb
+E:\Project Robert\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.first.resources
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Test.exe.config
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Test.exe
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Test.pdb
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.first.resources
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.exe
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.pdb
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.Migrations.added_ArticleID.resources
+C:\Users\nbn80019\Desktop\Test-master - Copy - Copy - Copy - Copy\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
