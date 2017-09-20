@@ -36,11 +36,22 @@ namespace Test
         }
         private void Fill_Click(object sender, EventArgs e)
         {
+
+            //do we need this?
             int attId = 0;
             int tagId = 0;
             int eVideosId = 0;
             int fCategoriesId = 0;
             int rPostId = 0;
+            //define error lists
+            List<Article> articleError = new List<Article>();
+            List<Attachment> attachmentsError = new List<Attachment>();
+            List<EmbededVideos> embadedVideosError = new List<EmbededVideos>();
+            List<FeaturedCategories> featuredCategoriesError = new List<FeaturedCategories>();
+            List<Meta> metaError = new List<Meta>();
+            List<RelatedPosts> relatedPostsError = new List<RelatedPosts>();
+            List<Tag> tagError = new List<Tag>();
+
             foreach (ArticleJSON item in mArticles)
             {
                 Article tempArticle = new Article(item);
@@ -56,10 +67,14 @@ namespace Test
                 catch (DbEntityValidationException ex)
                 {
                     string exception = ex.ToString();
+                    articleError.Add(tempArticle);
+
+
                 }
                 catch (Exception w)
                 {
                     string whatEx = w.ToString();
+                    articleError.Add(tempArticle);
                 }
 
 
@@ -71,7 +86,7 @@ namespace Test
                     tempAttachment.ArticleId = tempArticle.Id;
 
 
-                   // att.Id = item.Id;
+                    // att.Id = item.Id;
                     att.SiteId = item.Local;
                     att.Date = item.Date;
                     db.Attachments.Add(tempAttachment);
@@ -80,9 +95,18 @@ namespace Test
                         db.SaveChanges();
 
                     }
-                    catch (DbEntityValidationException)
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (DbEntityValidationException ea)
+#pragma warning restore CS0168 // Variable is declared but never used
                     {
+                        attachmentsError.Add(tempAttachment);
 
+                    }
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (Exception ex)
+#pragma warning restore CS0168 // Variable is declared but never used
+                    {
+                        attachmentsError.Add(tempAttachment);
                     }
                     int tagsCounter = 0;
                     int maxTags = 10;
@@ -96,11 +120,23 @@ namespace Test
                             db.SaveChanges();
 
                         }
-                        catch (DbEntityValidationException)
+#pragma warning disable CS0168 // Variable is declared but never used
+                        catch (DbEntityValidationException ec)
+#pragma warning restore CS0168 // Variable is declared but never used
                         {
+                            tagError.Add(tempTag);
 
                         }
+#pragma warning disable CS0168 // Variable is declared but never used
+                        catch (Exception ex)
+#pragma warning restore CS0168 // Variable is declared but never used
+                        {
+                            tagError.Add(tempTag);
+                        }
+                        //do we need this?
                         tagId++;
+
+                        //limit tags somehow
                         if (tagsCounter > maxTags)
                         {
 
@@ -123,9 +159,18 @@ namespace Test
                         db.SaveChanges();
 
                     }
-                    catch (DbEntityValidationException)
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (DbEntityValidationException eb)
+#pragma warning restore CS0168 // Variable is declared but never used
                     {
+                        embadedVideosError.Add(tempVid);
 
+                    }
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (Exception ex)
+#pragma warning restore CS0168 // Variable is declared but never used
+                    {
+                        embadedVideosError.Add(tempVid);
                     }
                     eVideosId++;
 
@@ -140,26 +185,44 @@ namespace Test
                         db.SaveChanges();
 
                     }
-                    catch (DbEntityValidationException)
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (DbEntityValidationException ee)
+#pragma warning restore CS0168 // Variable is declared but never used
                     {
+                        featuredCategoriesError.Add(tempCat);
 
+                    }
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (Exception ex)
+#pragma warning restore CS0168 // Variable is declared but never used
+                    {
+                        featuredCategoriesError.Add(tempCat);
                     }
                     fCategoriesId++;
 
                 }
                 foreach (int post in item.Meta.relatedPosts)
                 {
-                    RelatedPosts tempVid = new RelatedPosts() { relatedPosts = post, RelatedPostsId = rPostId, ArticleId = tempArticle.Id  };
-                    db.RelatedPosts.Add(tempVid);
+                    RelatedPosts tempPosts = new RelatedPosts() { relatedPosts = post, RelatedPostsId = rPostId, ArticleId = tempArticle.Id  };
+                    db.RelatedPosts.Add(tempPosts);
                     
                     try
                     {
                         db.SaveChanges();
 
                     }
-                    catch (DbEntityValidationException)
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (DbEntityValidationException ed)
+#pragma warning restore CS0168 // Variable is declared but never used
                     {
+                        relatedPostsError.Add(tempPosts);
 
+                    }
+#pragma warning disable CS0168 // Variable is declared but never used
+                    catch (Exception ex)
+#pragma warning restore CS0168 // Variable is declared but never used
+                    {
+                        relatedPostsError.Add(tempPosts);
                     }
                     rPostId++;
 
@@ -185,6 +248,21 @@ namespace Test
                
                 
             }
+
+            //error handling 
+            string result = "";
+            if (articleError.Count > 0 || attachmentsError.Count > 0 || embadedVideosError.Count > 0 || featuredCategoriesError.Count > 0 || metaError.Count > 0 || relatedPostsError.Count > 0 || tagError.Count > 0)
+            {
+                result = "article errors: " + articleError.Count + "\n attachments errors: " + attachmentsError.Count + "\n Videos errors: " + embadedVideosError.Count + "\n categories errors " + featuredCategoriesError.Count + "\n Meta errors" + metaError.Count + "\n Posts errors:" + relatedPostsError.Count + "\n Tags error: " + tagError.Count;
+            }
+            else
+            {
+                result = "Congratulations! Database inserts finnished without error";
+               
+            }
+            MessageBox.Show(result);
+
+
         }
 
         
